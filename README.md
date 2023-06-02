@@ -1,15 +1,11 @@
 ## Project Description
 
-This project aims to implement a webpage from a designer file using pure HTML semantic.
+This project aims to implement a webpage from a designer file using HTML and CSS.
 
 ## Project Goals
 
-* Create the webpage based on the provided figma file above.
-* Use pure HTML semantic to prepare the content.
-
-## Project Tools Used
-
-* I used HTML and CSS to build this simple website.
+* Create the webpage based on the provided figma file below.
+* Decorate the webpage with images and special svgs.
 
 ## Advanced HTML
 
